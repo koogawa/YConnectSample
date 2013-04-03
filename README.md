@@ -1,0 +1,4 @@
+YConnectSample
+==============
+
+iOSからYConnectにログインするサンプル
